@@ -3,3 +3,4 @@ models/*
 UrbanSound8K/
 augmented/
 data/*.npy
+include/__pycache__
